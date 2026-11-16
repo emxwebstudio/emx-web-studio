@@ -1,0 +1,26 @@
+EMX WEB STUDIO — PUBLICAR EN GITHUB PAGES
+=======================================
+
+1. Descomprime el ZIP en tu computadora.
+2. En GitHub, crea un repositorio público llamado emx-web-studio.
+3. Carga el CONTENIDO de la carpeta extraída, con index.html en la raíz.
+4. Guarda los cambios (Commit changes).
+5. Abre Settings > Pages.
+6. Source: Deploy from a branch.
+7. Branch: main / (root), y pulsa Save.
+8. Abre la dirección que GitHub Pages genere en Settings > Pages.
+
+Si tu usuario fuera MIUSUARIO, normalmente la URL sería:
+https://MIUSUARIO.github.io/emx-web-studio/
+
+CONEXIONES:
+- WhatsApp: +52 771 354 5923 (enlace y botón flotante configurados).
+- Correo: emxwebstudio@gmail.com.
+- Formulario: integración con FormSubmit; requiere ACTIVAR el receptor por correo.
+- Haz dos envíos de prueba: uno para activar y otro para comprobar que llega a Gmail.
+- El aviso de privacidad requiere revisión antes de captar datos reales.
+
+El ZIP no necesita npm, servidor propio, compilación ni ninguna API privada.
+Las tres demos están en /demos y funcionan con enlaces relativos.
+
+Consulta README.md para detalles.
